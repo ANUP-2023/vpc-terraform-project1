@@ -30,9 +30,9 @@ cat <<EOF > /var/www/html/index.html
   </style>
 </head>
 <body>
-  <h1>Terraform Project Server 2</h1>
+  <h1>Terraform Project Server 1</h1>
   <h2>Instance ID: <span style="color:green">$INSTANCE_ID</span></h2>
-  <p>Welcome to all my lovely students</p>
+  <p>Welcome All to my Terraform Server1</p>
 
 </body>
 </html>
